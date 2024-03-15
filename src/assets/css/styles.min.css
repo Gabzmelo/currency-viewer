@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+}
+  
+body {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    display: grid;
+    place-content: center;
+    min-height: 100vh;
+    background: #0d0d0d;
+    color: #bfbfbf;
+}
+  
+#app {
+    background: #0d0d0d;
+    color: #bfbfbf;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+select {
+    outline: 0;
+    background: none;
+    color: inherit;
+    box-shadow: none;
+}
+
+select::-ms-expand {
+    display: none;
+}
+  
