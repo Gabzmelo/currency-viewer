@@ -2,6 +2,8 @@
 
 This is a Vue 3 application for consuming the API [https://docs.awesomeapi.com.br/api-de-moedas](https://docs.awesomeapi.com.br/api-de-moedas) and displaying foreign currency rates on a line graph.
 
+The application can be viewed [here](https://currencyviewer.netlify.app/).
+
 ## Technologies Used
 
 -   Vue
